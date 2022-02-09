@@ -10,9 +10,9 @@ const Home = () => {
             <Header />
             <Code />
             <Result />
-            <footer id="main-footer">
+            {/* <footer id="main-footer">
         Made by KM &copy; 2021
-    </footer>
+    </footer> */}
     
         </>
     )
